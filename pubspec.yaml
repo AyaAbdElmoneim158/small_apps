@@ -23,15 +23,15 @@ flutter:
 
   # assets:
   assets:
-    - assets/icons/
-    - assets/images/
+    - assets/01.Food_app/icons/
+    - assets/01.Food_app/images/
 
   # fonts:
   fonts:
     - family: Poppins
       fonts:
-        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
-        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+        - asset: assets/01.Food_app/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/01.Food_app/fonts/Poppins/Poppins-Medium.ttf
           weight: 400
-        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+        - asset: assets/01.Food_app/fonts/Poppins/Poppins-Bold.ttf
           weight: 700
