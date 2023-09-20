@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:small_apps/Food_app/constants.dart';
+import 'package:small_apps/01.Food_app/constants.dart';
 
 class CategoryTitle extends StatelessWidget {
   final String title;

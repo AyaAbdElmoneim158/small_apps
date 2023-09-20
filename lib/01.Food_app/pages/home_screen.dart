@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:small_apps/Food_app/constants.dart';
-import 'package:small_apps/Food_app/pages/details_screen.dart';
-import 'package:small_apps/Food_app/widgets/category_title.dart';
-import 'package:small_apps/Food_app/widgets/food_card.dart';
+import 'package:small_apps/01.Food_app/constants.dart';
+import 'package:small_apps/01.Food_app/pages/details_screen.dart';
+import 'package:small_apps/01.Food_app/widgets/category_title.dart';
+import 'package:small_apps/01.Food_app/widgets/food_card.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
